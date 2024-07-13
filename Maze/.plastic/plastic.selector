@@ -1,4 +1,0 @@
-repository "Maze@tzbai765@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
